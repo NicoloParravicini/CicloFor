@@ -23,7 +23,7 @@ public class CicloFor {
         for(int i = 0; i < 10; i++){
             
             contatore++;
-            
+modificato master            
         } 
         System.out.println(contatore);
     }
